@@ -1,4 +1,4 @@
-/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+﻿/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -3080,7 +3080,7 @@ button {
 .section-map {
   margin: 0;
   padding-top: 15px;
-  background-color: #efefef;
+ padding-bottom: 15px;  background-color: #efefef;
 }
 .section-map .container {
   margin: 0 auto;
